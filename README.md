@@ -1,4 +1,4 @@
-# flowchart TD
+flowchart TD
         A(["Start"])
         A --> B{"18 and older?"}
         B -- yes --> C{"medically fit?"}
